@@ -1,2 +1,2 @@
 # Fotomatic
-Fotom
+Fotomatic
